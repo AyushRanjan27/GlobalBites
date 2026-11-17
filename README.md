@@ -32,7 +32,7 @@ The platform features a modern, interactive interface with personalized experien
 | Service | URL |
 | :--- | :--- |
 | **Frontend** (Vercel) | [global-bites-weld.vercel.app](global-bites-weld.vercel.app) |
-| **Backend API** (Render) | [https://apexdistro-portal-1.onrender.com](https://globalbites-backend-67qw.onrender.com) |
+| **Backend API** (Render) | [https://globalbites-backend-67qw.onrender.com](https://globalbites-backend-67qw.onrender.com) |
 
 > ⚠️ The backend is hosted on Render's free tier — it may take **30–60 seconds** to wake up on the first request.
 
