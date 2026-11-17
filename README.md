@@ -27,6 +27,16 @@ Whether you are looking for recipes based on your available ingredients, plannin
 
 The platform features a modern, interactive interface with personalized experiences and an editorial-inspired visual design.
 
+## 🌐 Live Deployment
+
+| Service | URL |
+| :--- | :--- |
+| **Frontend** (Vercel) | [https://apex-distro-portal.vercel.app](global-bites-weld.vercel.app) |
+| **Backend API** (Render) | [https://apexdistro-portal-1.onrender.com](https://globalbites-backend-67qw.onrender.com) |
+
+> ⚠️ The backend is hosted on Render's free tier — it may take **30–60 seconds** to wake up on the first request.
+
+
 ## ✨ Key Features
 
 ### 🏠 1. Smart Recipe Discovery
